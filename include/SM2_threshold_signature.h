@@ -1,0 +1,14 @@
+
+#ifndef SM2_THRESHOLD_SIGNATURE_H
+#define SM2_THRESHOLD_SIGNATURE_H
+
+
+
+
+
+
+#endif // !SM2_THRESHOLD_SIGNATURE_H
+
+
+
+
